@@ -70,12 +70,12 @@ button:hover{
 }
 
 @media (min-width:1020px) {
-    .body{
+    body{
         display: flex;
         align-items: center;
         justify-content: center;
         min-height: 100vh;
-        width : 100%
+        
     }
     .main{
         width: 650px;
