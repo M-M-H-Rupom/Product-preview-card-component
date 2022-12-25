@@ -8,7 +8,7 @@
 body{
     font-family: 'Inter', sans-serif;
    background-color: hsl(30, 38%, 92%);
-   height: 100vh;
+   
    display: flex;
    align-items: center;
    justify-content: center;
@@ -74,7 +74,7 @@ button:hover{
         display: flex;
         align-items: center;
         justify-content: flex-start;
-        
+        min-height: 100vh;
     }
     .main{
         width: 650px;
